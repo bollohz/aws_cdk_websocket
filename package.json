@@ -15,6 +15,7 @@
     "jest": "^24.9.0"
   },
   "dependencies": {
+    "@aws-cdk/aws-apigatewayv2": "^1.30.0",
     "@aws-cdk/core": "^1.22.0"
   }
 }
